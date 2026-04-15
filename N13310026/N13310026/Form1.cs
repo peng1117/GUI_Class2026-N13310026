@@ -49,5 +49,12 @@ namespace N13310026
             string str = textBox1.Text;
             label2.Text = str;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            String count = lab_Counter.Text;
+            int sum = Int32.Parse(count)-1;
+            lab_Counter.Text = sum.ToString();
+        }
     }
 }
