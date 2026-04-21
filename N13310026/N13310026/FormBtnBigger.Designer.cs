@@ -35,9 +35,9 @@
             // 
             this.button1.BackColor = System.Drawing.Color.Pink;
             this.button1.Font = new System.Drawing.Font("標楷體", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.button1.Location = new System.Drawing.Point(374, 147);
+            this.button1.Location = new System.Drawing.Point(337, 146);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(81, 47);
+            this.button1.Size = new System.Drawing.Size(99, 64);
             this.button1.TabIndex = 0;
             this.button1.Text = "大大的";
             this.button1.UseVisualStyleBackColor = false;

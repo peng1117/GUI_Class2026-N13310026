@@ -56,5 +56,10 @@ namespace N13310026
             int sum = Int32.Parse(count)-1;
             lab_Counter.Text = sum.ToString();
         }
+
+        private void btn_Calaulator_Click(object sender, EventArgs e)
+        {
+            new FormCalculator().Show();
+        }
     }
 }
