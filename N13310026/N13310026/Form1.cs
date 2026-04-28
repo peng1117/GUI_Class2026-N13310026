@@ -61,5 +61,10 @@ namespace N13310026
         {
             new FormCalculator().Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new Form2().Show();
+        }
     }
 }
